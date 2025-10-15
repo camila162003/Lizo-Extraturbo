@@ -1,0 +1,14 @@
+# Excluir imagenes
+imagenes lizo/
+
+# Excluir dependencias
+node_modules/
+.next/
+
+# Excluir configuracion sensible
+.env.local
+ENV-CONFIG.md
+
+# Excluir temporales
+*.log
+.DS_Store

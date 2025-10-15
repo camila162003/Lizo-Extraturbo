@@ -1,0 +1,6 @@
+# Excluir imagenes temporalmente 
+imagenes lizo/ 
+node_modules/ 
+.next/ 
+.env.local 
+ENV-CONFIG.md 
